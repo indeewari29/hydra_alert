@@ -27,16 +27,16 @@ A Java desktop application that helps users track daily water intake, set person
 - Abstraction: DataManager handles file saving without exposing details
 
 ## Visuals of Interfaces
-<img width="733" height="802" alt="Screenshot 2026-06-07 150433" src="https://github.com/user-attachments/assets/ad9eee39-781e-4ec7-aedf-20161cb7c4b6" />
-<img width="738" height="802" alt="Screenshot 2026-06-07 150422" src="https://github.com/user-attachments/assets/b55feecb-8fa0-4c8a-a46c-aef73be243ce" />
-<img width="731" height="803" alt="Screenshot 2026-06-07 150410" src="https://github.com/user-attachments/assets/48aa5ac9-9067-492a-93af-f04ed27b1981" />
-<img width="733" height="802" alt="Screenshot 2026-06-07 150356" src="https://github.com/user-attachments/assets/49146f92-47fc-4627-8b45-5f8ca720b2a5" />
-<img width="745" height="797" alt="Screenshot 2026-06-07 150342" src="https://github.com/user-attachments/assets/8cf7d30a-526e-465a-9f30-36e62609656c" />
-<img width="1403" height="345" alt="Screenshot 2026-06-07 150618" src="https://github.com/user-attachments/assets/95ecc76f-09de-44b5-bf50-6788922cd099" />
-<img width="731" height="803" alt="Screenshot 2026-06-07 150531" src="https://github.com/user-attachments/assets/e158b89d-d137-4949-b245-277f2c13472c" />
-<img width="727" height="811" alt="Screenshot 2026-06-07 150517" src="https://github.com/user-attachments/assets/b628c8ca-5df7-4ce5-bfc3-42b3b8fc6368" />
-<img width="727" height="806" alt="Screenshot 2026-06-07 150452" src="https://github.com/user-attachments/assets/9a07ac4b-ab37-4b4a-961f-7d1e814dc3f6" />
-<img width="732" height="806" alt="Screenshot 2026-06-07 150443" src="https://github.com/user-attachments/assets/59e20d5c-5ee5-487e-a495-2dae8731688c" />
+<img width="745" height="797" alt="Screenshot 2026-06-07 150342" src="https://github.com/user-attachments/assets/6e3d9cb3-1c34-495c-b1a4-eb0039a3876b" />
+<img width="733" height="802" alt="Screenshot 2026-06-07 150356" src="https://github.com/user-attachments/assets/0d96dd16-b788-4e8c-9a1d-f3803cd9143c" />
+<img width="731" height="803" alt="Screenshot 2026-06-07 150410" src="https://github.com/user-attachments/assets/f8e85561-4c34-4b28-a996-d851cabb1509" />
+<img width="738" height="802" alt="Screenshot 2026-06-07 150422" src="https://github.com/user-attachments/assets/fa1daf1f-4335-4298-b6d8-ce1632a2db24" />
+<img width="733" height="802" alt="Screenshot 2026-06-07 150433" src="https://github.com/user-attachments/assets/ba07553e-32c8-4f05-a21e-c27c879f6b33" />
+<img width="732" height="806" alt="Screenshot 2026-06-07 150443" src="https://github.com/user-attachments/assets/7f23459a-7fa1-40ef-8a4a-501e899c9490" />
+<img width="727" height="806" alt="Screenshot 2026-06-07 150452" src="https://github.com/user-attachments/assets/44fc518a-1c6a-437b-b1e3-76909b77042c" />
+<img width="727" height="811" alt="Screenshot 2026-06-07 150517" src="https://github.com/user-attachments/assets/b0b00130-5285-4751-bc0a-5625ce02ba6a" />
+<img width="731" height="803" alt="Screenshot 2026-06-07 150531" src="https://github.com/user-attachments/assets/b25cc85f-a83f-4da3-9c32-688f095f799b" />
+<img width="1403" height="345" alt="Screenshot 2026-06-07 150618" src="https://github.com/user-attachments/assets/d16581af-bb33-42b7-97e5-f2071d1e3cdc" />
 
 ## How to Run
 
