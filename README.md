@@ -26,6 +26,21 @@ A Java desktop application that helps users track daily water intake, set person
 - Polymorphism: Overridden run() method in TimerTask
 - Abstraction: DataManager handles file saving without exposing details
 
+## Visuals of Interfaces
+User details input
+<img width="733" height="802" alt="Screenshot 2026-06-07 150433" src="https://github.com/user-attachments/assets/ad9eee39-781e-4ec7-aedf-20161cb7c4b6" />
+<img width="738" height="802" alt="Screenshot 2026-06-07 150422" src="https://github.com/user-attachments/assets/b55feecb-8fa0-4c8a-a46c-aef73be243ce" />
+<img width="731" height="803" alt="Screenshot 2026-06-07 150410" src="https://github.com/user-attachments/assets/48aa5ac9-9067-492a-93af-f04ed27b1981" />
+<img width="733" height="802" alt="Screenshot 2026-06-07 150356" src="https://github.com/user-attachments/assets/49146f92-47fc-4627-8b45-5f8ca720b2a5" />
+Dashboard
+<img width="745" height="797" alt="Screenshot 2026-06-07 150342" src="https://github.com/user-attachments/assets/8cf7d30a-526e-465a-9f30-36e62609656c" />
+<img width="1403" height="345" alt="Screenshot 2026-06-07 150618" src="https://github.com/user-attachments/assets/95ecc76f-09de-44b5-bf50-6788922cd099" />
+<img width="731" height="803" alt="Screenshot 2026-06-07 150531" src="https://github.com/user-attachments/assets/e158b89d-d137-4949-b245-277f2c13472c" />
+<img width="727" height="811" alt="Screenshot 2026-06-07 150517" src="https://github.com/user-attachments/assets/b628c8ca-5df7-4ce5-bfc3-42b3b8fc6368" />
+<img width="727" height="806" alt="Screenshot 2026-06-07 150452" src="https://github.com/user-attachments/assets/9a07ac4b-ab37-4b4a-961f-7d1e814dc3f6" />
+User hydration report
+<img width="732" height="806" alt="Screenshot 2026-06-07 150443" src="https://github.com/user-attachments/assets/59e20d5c-5ee5-487e-a495-2dae8731688c" />
+
 ## How to Run
 
 1. Compile all Java files 
