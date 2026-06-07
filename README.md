@@ -27,7 +27,7 @@ A Java desktop application that helps users track daily water intake, set person
 - Abstraction: DataManager handles file saving without exposing details
 
 ## Visuals of Interfaces
-User details input
+User details input /n
 <img width="733" height="802" alt="Screenshot 2026-06-07 150433" src="https://github.com/user-attachments/assets/ad9eee39-781e-4ec7-aedf-20161cb7c4b6" />
 <img width="738" height="802" alt="Screenshot 2026-06-07 150422" src="https://github.com/user-attachments/assets/b55feecb-8fa0-4c8a-a46c-aef73be243ce" />
 <img width="731" height="803" alt="Screenshot 2026-06-07 150410" src="https://github.com/user-attachments/assets/48aa5ac9-9067-492a-93af-f04ed27b1981" />
